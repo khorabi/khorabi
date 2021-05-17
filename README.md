@@ -1,6 +1,6 @@
-### Hi! I'm Barbara Abi, a beginner in self-taught data science.
-#### I'm currently learning python for data analysis and concepts of business intelligence. 
+### Olá! Meu nome é Barbara Abi, e eu sou programadora e entusiasta em análise de dados.
+#### No momento, estou estudando Python e conceitos de business intelligence. 
 
-- My pronouns are they/she!
-- pt-br and english
-- I study so I can one day make social projects through technology.
+- Pode se referir a mim com quaisquer pronomes!
+- Me comunico em português (brasileiro) e inglês.
+- Sinta-se a vontade para interagir comigo quando o assunto for programação e dados!
