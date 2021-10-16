@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Barbara Abi, e eu trabalho com análise e engenharia de dados.
-#### No momento, estou estudando e desenvolvendo pipelines de transporte de dados em Python.
+#### No momento, estou estudando e desenvolvendo pipelines de transporte de dados em Python, com o orquestrador Prefect
 
 - Pode se referir a mim com quaisquer pronomes!
 - Me comunico em português (brasileiro) e inglês.
